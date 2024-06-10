@@ -25,7 +25,7 @@
 </div>
 
 ## Social Media
-<a href="https://br.linkedin.com/in/gabriel-develop-815123309/&quot; target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&quot; target="_blank"></a>
+<a href="https://br.linkedin.com/in/gabriel-develop-815123309/&quot;" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&quot; target="_blank"></a>
 <a href="gabrieltechsuport23@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
 
 
