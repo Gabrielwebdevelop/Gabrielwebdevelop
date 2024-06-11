@@ -5,24 +5,24 @@
 
 ## Skills Programming
 <div style="display: inline_block">
-  <img aling="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&quot; alt="html5"/>
-  <img aling="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&quot; alt="css3"/>
-  <img aling="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&quot; alt="mysql"/>
-  <img aling="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&quot; alt="styledcomponents"/>
-  <img aling="center" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&javascript&quot; alt="JavaScript"/>
+  <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styledcomponents"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&javascript" alt="JavaScript"/>
 </div>
 
 ## Skills Design
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665&quot; alt="Adobe After Effects"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&quot; alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black&quot; alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="Adobe After Effects"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop"/>
 
 </div>
 
 ## Social Media
-<a href="https://br.linkedin.com/in/gabriel-develop-815123309/&quot; target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&quot; target="_blank"></a>
-<a href="gabrieltechsuport23@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
+<a href="https://br.linkedin.com/in/gabriel-develop-815123309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="gabrieltechsuport23@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ## Setup
@@ -32,4 +32,3 @@
   <img alt="240GB SSD" src="https://img.shields.io/badge/SSD-240GB-0071C5?style=for-the-badge&logoColor=white"/>
   <img alt="Windows 10 64 bits" src="https://img.shields.io/badge/Windows%2010%2064%20bits-0071C5?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
-
