@@ -22,8 +22,7 @@
 
 ## Social Media
 <a href="https://br.linkedin.com/in/gabriel-develop-815123309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="gabrieltechsuport23@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href="mailto:gabrieltechsuport23@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Setup
 <div style="display: inline_block">
