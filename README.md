@@ -20,10 +20,6 @@
 
 </div>
 
-## Social Media
-<a href="https://br.linkedin.com/in/gabriel-develop-815123309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:gabrieltechsuport23@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 ## Setup
 <div style="display: inline_block">
   <img alt="Intel Core i5 3470" src="https://img.shields.io/badge/Intel%20Core%20i5%203470-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
