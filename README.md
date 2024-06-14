@@ -30,4 +30,6 @@
   <img alt="16GB RAM" src="https://img.shields.io/badge/RAM-16GB-0071C5?style=for-the-badge&logoColor=white"/>
   <img alt="240GB SSD" src="https://img.shields.io/badge/SSD-240GB-0071C5?style=for-the-badge&logoColor=white"/>
   <img alt="Windows 10 64 bits" src="https://img.shields.io/badge/Windows%2010%2064%20bits-0071C5?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="GTX 750TI GeForce Duex NVIDIA 2GB GDDR5 128 Bits" src="https://img.shields.io/badge/GTX%20750TI%20GeForce%20Duex%20NVIDIA%202GB%20GDDR5%20128%20Bits-0071C5?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
+
