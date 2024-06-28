@@ -9,10 +9,15 @@
   <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styledcomponents"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&javascript" alt="JavaScript"/>
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img align="center" src="https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge" alt="UI/UX"/>
+  <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img align="center" src="https://img.shields.io/badge/Agile%20Methodologies-0098D6?style=for-the-badge" alt="Agile Methodologies"/>
+  <img align="center" src="https://img.shields.io/badge/Requirements%20Analysis-009688?style=for-the-badge" alt="Requirements Analysis"/>
+  <img align="center" src="https://img.shields.io/badge/Full%20Stack-0B0B0B?style=for-the-badge" alt="Full Stack"/>
 </div>
 
 
